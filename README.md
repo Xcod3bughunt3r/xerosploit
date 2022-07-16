@@ -1,6 +1,6 @@
 ## Xerosploit
 
-![Icons](https://github.com/Xcod3bughunt3r/xerosploit/tools/bettercap/docs/_static/favicon.png)
+![Icons](https://github.com/Xcod3bughunt3r/xerosploit/blob/main/tools/bettercap/docs/_static/favicon.png)
 
 #### Xerosploit adalah toolkit pengujian penetrasi tingkat lanjut yang tujuannya adalah untuk melakukan manusia dalam serangan tengah untuk tujuan pengujian. Ini membawa berbagai modul yang memungkinkan untuk mewujudkan serangan yang efisien, dan juga memungkinkan untuk melakukan penolakan serangan layanan dan pemindaian port.
 
