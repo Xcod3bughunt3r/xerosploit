@@ -6,8 +6,7 @@
 
 #### Powered by <a href="https://www.bettercap.org"> bettercap</a> and <a href="https://www.bettercap.org"> nmap</a>.
 
-![Logo](https://github.com/Xcod3bughunt3r/xerosploit/tools/bettercap/docs/_static/logo.png)
-
+![Logo](https://github.com/Xcod3bughunt3r/xerosploit/blob/main/tools/bettercap/docs/_static/logo.png)
 #### Dependencies
 - nmap 
 - hping3 
