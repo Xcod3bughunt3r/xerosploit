@@ -69,7 +69,7 @@ Dependencies will be automatically installed.
 - [Proxying](https://github.com/Xcod3bughunt3r/xerosploit/blob/main/tools/bettercap/docs/proxying.md)
 - [Sniffing](https://github.com/Xcod3bughunt3r/xerosploit/blob/main/tools/bettercap/docs/sniffing.md)
 - [Spoofing](https://github.com/Xcod3bughunt3r/xerosploit/blob/main/tools/bettercap/docs/spoofing.md)
-- [Servers HTTP](https://github.com/Xcod3bughunt3r/xerosploit/blob/main/tools/bettercap/docs/servers/dns.md)
+- [Servers HTTP or HTTPS](https://github.com/Xcod3bughunt3r/xerosploit/blob/main/tools/bettercap/docs/servers/dns.md)
 - [Servers DNS](https://github.com/Xcod3bughunt3r/xerosploit/blob/main/tools/bettercap/docs/servers/http.md)
 - [Custom Proxying](https://github.com/Xcod3bughunt3r/xerosploit/blob/main/tools/bettercap/docs/proxying/custom.md)
 - [Proxying HTTP](https://github.com/Xcod3bughunt3r/xerosploit/blob/main/tools/bettercap/docs/proxying/http.md)
