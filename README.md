@@ -7,6 +7,7 @@
 #### Powered by <a href="https://www.bettercap.org"> bettercap</a> and <a href="https://www.bettercap.org"> nmap</a>.
 
 ![Logo](https://github.com/Xcod3bughunt3r/xerosploit/blob/main/tools/bettercap/docs/_static/logo.png)
+
 #### Dependencies
 - nmap 
 - hping3 
@@ -60,20 +61,20 @@ Dependencies will be automatically installed.
 - Webpage defacement and more ...
 
 #### Please Check Docs
-- [Introduction](https://github.com/Xcod3bughunt3r/xerosploit/tools/bettercap/docs/blob/main/intro.md)
-- [Instalation](https://github.com/Xcod3bughunt3r/xerosploit/tools/bettercap/docs/blob/main/install.md)
-- [Main](https://github.com/Xcod3bughunt3r/xerosploit/tools/bettercap/docs/blob/main/main.md)
-- [Logging](https://github.com/Xcod3bughunt3r/xerosploit/tools/bettercap/docs/blob/main/logging.md)
-- [Contribute](https://github.com/Xcod3bughunt3r/xerosploit/tools/bettercap/docs/blob/main/contribute.md)
-- [Proxying](https://github.com/Xcod3bughunt3r/xerosploit/tools/bettercap/docs/blob/main/proxying.md)
-- [Sniffing](https://github.com/Xcod3bughunt3r/xerosploit/tools/bettercap/docs/blob/main/sniffing.md)
-- [Spoofing](https://github.com/Xcod3bughunt3r/xerosploit/tools/bettercap/docs/blob/main/spoofing.md)
-- [Servers HTTP](https://github.com/Xcod3bughunt3r/xerosploit/tools/bettercap/docs/servers/blob/main/dns.md)
-- [Servers DNS](https://github.com/Xcod3bughunt3r/xerosploit/tools/bettercap/docs/servers/blob/main/http.md)
-- [Custom Proxying](https://github.com/Xcod3bughunt3r/xerosploit/tools/bettercap/docs/proxying/blob/main/custom.md)
-- [Proxying HTTP](https://github.com/Xcod3bughunt3r/xerosploit/tools/bettercap/docs/proxying/blob/main/http.md)
-- [Proxying TCP](https://github.com/Xcod3bughunt3r/xerosploit/tools/bettercap/docs/proxying/blob/main/tcp.md)
-- [Templates](https://github.com/Xcod3bughunt3r/xerosploit/tools/bettercap/docs/_templates/blob/main/page.html)
+- [Introduction](https://github.com/Xcod3bughunt3r/xerosploit/blob/main/tools/bettercap/docs/intro.md)
+- [Instalation](https://github.com/Xcod3bughunt3r/xerosploit/blob/main/tools/bettercap/docs/install.md)
+- [Main](https://github.com/Xcod3bughunt3r/xerosploit/blob/main/tools/bettercap/docs/main.md)
+- [Logging](https://github.com/Xcod3bughunt3r/xerosploit/blob/main/tools/bettercap/docs/logging.md)
+- [Contribute](https://github.com/Xcod3bughunt3r/xerosploit/blob/main/tools/bettercap/docs/contribute.md)
+- [Proxying](https://github.com/Xcod3bughunt3r/xerosploit/blob/main/tools/bettercap/docs/proxying.md)
+- [Sniffing](https://github.com/Xcod3bughunt3r/xerosploit/blob/main/tools/bettercap/docs/sniffing.md)
+- [Spoofing](https://github.com/Xcod3bughunt3r/xerosploit/blob/main/tools/bettercap/docs/spoofing.md)
+- [Servers HTTP](https://github.com/Xcod3bughunt3r/xerosploit/blob/main/tools/bettercap/docs/servers/dns.md)
+- [Servers DNS](https://github.com/Xcod3bughunt3r/xerosploit/blob/main/tools/bettercap/docs/servers/http.md)
+- [Custom Proxying](https://github.com/Xcod3bughunt3r/xerosploit/blob/main/tools/bettercap/docs/proxying/custom.md)
+- [Proxying HTTP](https://github.com/Xcod3bughunt3r/xerosploit/blob/main/tools/bettercap/docs/proxying/http.md)
+- [Proxying TCP](https://github.com/Xcod3bughunt3r/xerosploit/blob/main/tools/bettercap/docs/proxying/tcp.md)
+- [Templates](https://github.com/Xcod3bughunt3r/xerosploit/blob/main/tools/bettercap/docs/_templates/page.html)
 
 #### I have some questions!
 #### [Please visit](https://github.com/Xcod3bughunt3r/xerosploit/issues)
